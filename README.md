@@ -1,6 +1,6 @@
 # Express + Prisma Starter Template
 
-Starter Template for ExpressJS, TypeScript and Prisma, with Jest set up for testing.
+Starter Template for ExpressJS, TypeScript and Prisma, with Jest set up for testing and Swagger for API documentation.
 
 ## 📋 Overview
 
