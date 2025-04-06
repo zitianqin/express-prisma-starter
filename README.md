@@ -1,2 +1,2 @@
-# expressjs-ts-prisma-starter
-Starter Template for ExpressJS, TypeScript and Prisma, with Jest testing set up.
+# Express + Prisma Starter Template
+Starter Template for ExpressJS, TypeScript and Prisma, with Jest set up for testing.
